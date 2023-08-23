@@ -1,4 +1,4 @@
-      
+#create a function computepay      
 def computepay(hours, rate):
     if hours <= 40:
         pay = hours * rate
