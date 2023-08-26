@@ -1,3 +1,3 @@
-# Python-for-everyone
+# Python-for-everybody
 
-question and solution exercises
+exercises and solutions
