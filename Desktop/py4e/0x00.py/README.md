@@ -1,2 +1,2 @@
 # EXERCISE ONE
-*Write a program that prompts a user to input their names, and then welcomes them.*
+*write a program that uses input to prompt a user for their name, and then welcomes them*
