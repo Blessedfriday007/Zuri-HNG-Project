@@ -1,5 +1,5 @@
-# FILES
-*Write a program to read through a file and print the contents of the file (line by line) all in uper case.
+# READING THROGH A FILE
+*Write a program to read through a file and print the contents of the file (line by line) all in upper case.
 Executing the program will look as follows:*
 
 ```
