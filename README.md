@@ -23,8 +23,8 @@ Create and Deploy a Personal Website with HTML and CSS Featuring Real-Time Data 
  * Provide a clickable link to your GitHub repository where the source code for this task resides.
  * Attribute: data-testid=“githubURL”
 
-- This is just a mini Zuri HNG project that showcases personal and real-time data attributes..
+ **This is just a mini Zuri HNG project that showcases personal and real-time data attributes..**
 
-- Dont forget to hit that F5 Key on your Laptop to refresh the timer, on the [live Preview.](https://zuri-hng-project.vercel.app/)
+ **Dont forget to hit that F5 Key on your Laptop to refresh the timer, on the [live Preview.](https://zuri-hng-project.vercel.app/)**
 
 
